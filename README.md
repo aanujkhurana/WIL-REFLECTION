@@ -1,10 +1,11 @@
+[![HTML](https://img.shields.io/badge/HTML-5-blue.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-3-orange.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
 # Personal Portfolio
 
 Welcome to my personal portfolio website! This website showcases my projects, skills, and experiences. It was built using HTML, CSS, and JavaScript, and it is deployed on GitHub Pages.
 
-[![HTML](https://img.shields.io/badge/HTML-5-blue.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS-3-orange.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## Purpose
 
