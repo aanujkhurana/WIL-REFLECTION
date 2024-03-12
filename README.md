@@ -6,6 +6,8 @@
 
 Internship reflection website, built using Vanilla CSS, HTML, and JavaScript
 
+## [ClickHere](https://aanujkhurana.github.io/WIL-REFLECTION/index.html) to Visit Website
+
 ## Purpose
 
 This reflection website was created as part of my coursework for Work-Integrated Learning (WIL) Placement. It serves as a platform to demonstrate my skills and accomplishments during my internship.
@@ -14,7 +16,6 @@ This reflection website was created as part of my coursework for Work-Integrated
 
 During my internship at [GilmourSpace Technologies](https://www.gspacetech.com/) in Gold Coast, Australia, I had the opportunity to work on exciting projects and gain valuable experience in the field. You can learn more about my internship experience and the projects I worked on by visiting the GilmourSpace Technologies website.
 
-## [ClickHere](https://aanujkhurana.github.io/WIL-REFLECTION/index.html) to Visit Website
 
 ## Contributing
 
