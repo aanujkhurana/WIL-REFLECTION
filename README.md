@@ -16,8 +16,6 @@ During my internship at [GilmourSpace Technologies](https://www.gspacetech.com/)
 
 ## [ClickHere](https://aanujkhurana.github.io/WIL-REFLECTION/index.html) to Visit Website
 
-Feel free to explore my portfolio and check out the projects I've worked on. You can visit my portfolio by clicking 
-
 ## Contributing
 
 Contributions and feedback are always welcome! If you have any suggestions for improvements or would like to contribute to the project, please feel free to submit a pull request.
